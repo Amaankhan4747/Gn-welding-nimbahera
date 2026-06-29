@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
+  <rect width="1200" height="900" fill="#141922"/>
+  <rect x="130" y="210" width="940" height="560" rx="12" fill="#08090b" stroke="#d6ad48" stroke-width="20"/>
+  <path d="M600 220v540M210 270v450M300 270v450M390 270v450M480 270v450M720 270v450M810 270v450M900 270v450M990 270v450" stroke="#d6ad48" stroke-width="14"/>
+  <path d="M185 440c120-130 220-130 340 0s230 130 490 0" fill="none" stroke="#f2d47a" stroke-width="18"/>
+  <circle cx="600" cy="500" r="64" fill="#202833" stroke="#f2d47a" stroke-width="14"/>
+  <text x="70" y="130" fill="#f7f4ec" font-family="Arial, sans-serif" font-size="72" font-weight="800">Designer Gates</text>
+</svg>

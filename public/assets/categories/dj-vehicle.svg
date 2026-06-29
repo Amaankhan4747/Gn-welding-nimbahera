@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1500">
+  <defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#11151b"/><stop offset="1" stop-color="#2c2414"/></linearGradient></defs>
+  <rect width="1200" height="1500" fill="url(#bg)"/>
+  <path d="M130 1010h940v190H130z" fill="#0b0d10"/>
+  <path d="M220 690h620l170 170v150H190V760c0-39 31-70 70-70z" fill="#d6ad48"/>
+  <path d="M290 745h270v160H290zM610 745h205l105 105v55H610z" fill="#15191f"/>
+  <circle cx="360" cy="1040" r="92" fill="#15191f"/><circle cx="840" cy="1040" r="92" fill="#15191f"/>
+  <circle cx="360" cy="1040" r="42" fill="#f2d47a"/><circle cx="840" cy="1040" r="42" fill="#f2d47a"/>
+  <rect x="245" y="520" width="560" height="110" rx="18" fill="#202833"/>
+  <circle cx="335" cy="575" r="42" fill="#08090b" stroke="#f2d47a" stroke-width="12"/>
+  <circle cx="455" cy="575" r="42" fill="#08090b" stroke="#f2d47a" stroke-width="12"/>
+  <circle cx="575" cy="575" r="42" fill="#08090b" stroke="#f2d47a" stroke-width="12"/>
+  <text x="95" y="255" fill="#f7f4ec" font-family="Arial, sans-serif" font-size="92" font-weight="800">DJ Vehicle</text>
+  <text x="95" y="345" fill="#d6ad48" font-family="Arial, sans-serif" font-size="48" font-weight="700">Custom sound body fabrication</text>
+</svg>

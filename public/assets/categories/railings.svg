@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
+  <rect width="1200" height="900" fill="#10151d"/>
+  <path d="M90 650h1020" stroke="#d6ad48" stroke-width="34" stroke-linecap="round"/>
+  <path d="M160 260h880" stroke="#f2d47a" stroke-width="30" stroke-linecap="round"/>
+  <path d="M210 280v370M350 280v370M490 280v370M630 280v370M770 280v370M910 280v370" stroke="#d6ad48" stroke-width="22" stroke-linecap="round"/>
+  <path d="M120 710h960v70H120z" fill="#08090b"/>
+  <text x="75" y="150" fill="#f7f4ec" font-family="Arial, sans-serif" font-size="76" font-weight="800">Safety Railings</text>
+  <text x="80" y="215" fill="#d6ad48" font-family="Arial, sans-serif" font-size="34" font-weight="700">Balcony and staircase work</text>
+</svg>

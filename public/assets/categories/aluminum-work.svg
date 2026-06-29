@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
+  <rect width="1200" height="900" fill="#10151d"/>
+  <rect x="160" y="220" width="880" height="560" fill="#0b0d10" stroke="#d6ad48" stroke-width="18"/>
+  <path d="M600 220v560M160 500h880" stroke="#d6ad48" stroke-width="16"/>
+  <rect x="210" y="275" width="330" height="170" fill="#202833"/>
+  <rect x="660" y="275" width="330" height="170" fill="#202833"/>
+  <rect x="210" y="555" width="330" height="170" fill="#202833"/>
+  <rect x="660" y="555" width="330" height="170" fill="#202833"/>
+  <path d="M250 330h250M700 330h250M250 610h250M700 610h250" stroke="#f2d47a" stroke-width="10"/>
+  <text x="70" y="135" fill="#f7f4ec" font-family="Arial, sans-serif" font-size="70" font-weight="800">Aluminum Work</text>
+</svg>

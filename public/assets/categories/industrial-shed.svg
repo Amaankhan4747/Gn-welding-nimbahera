@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
+  <rect width="1200" height="900" fill="#11151b"/>
+  <path d="M110 420l490-230 490 230v360H110z" fill="#202833"/>
+  <path d="M110 420l490-230 490 230" fill="none" stroke="#d6ad48" stroke-width="28" stroke-linejoin="round"/>
+  <path d="M220 460h760M220 540h760M220 620h760M220 700h760" stroke="#d6ad48" stroke-width="12" opacity=".8"/>
+  <path d="M330 780V430M600 780V310M870 780V430" stroke="#f2d47a" stroke-width="18"/>
+  <text x="70" y="140" fill="#f7f4ec" font-family="Arial, sans-serif" font-size="72" font-weight="800">Industrial Shed</text>
+</svg>
